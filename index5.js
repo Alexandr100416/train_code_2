@@ -26,7 +26,7 @@ const sum = function (arr) {
     return total;
 }
 
-
+// test
 console.log(sum(numbers));
 
 
